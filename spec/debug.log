@@ -1,0 +1,427 @@
+# Logfile created on 09-07-2008 14:37:42 by /
+  [4;36;1mSQL (0.003711)[0m   [0;1mselect sqlite_version(*)[0m
+  [4;35;1mSQL (0.011494)[0m   [0mCREATE TABLE schema_info (version integer)[0m
+  [4;36;1mSQL (0.002765)[0m   [0;1mINSERT INTO schema_info (version) VALUES(0)[0m
+  [4;35;1mSQL (0.002641)[0m   [0mUPDATE schema_info SET version = 0[0m
+  [4;36;1mSQL (0.003544)[0m   [0;1mselect sqlite_version(*)[0m
+  [4;35;1mSQL (0.000000)[0m   [0mSQLite3::SQLException: table schema_info already exists: CREATE TABLE schema_info (version integer)[0m
+  [4;36;1mSQL (0.009660)[0m   [0;1mUPDATE schema_info SET version = 0[0m
+  [4;35;1mSQL (0.000717)[0m   [0mselect sqlite_version(*)[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSQLite3::SQLException: table schema_info already exists: CREATE TABLE schema_info (version integer)[0m
+  [4;35;1mSQL (0.003486)[0m   [0mUPDATE schema_info SET version = 0[0m
+  [4;35;1mSQL (0.000742)[0m   [0mselect sqlite_version(*)[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSQLite3::SQLException: table schema_info already exists: CREATE TABLE schema_info (version integer)[0m
+  [4;35;1mSQL (0.003572)[0m   [0mUPDATE schema_info SET version = 0[0m
+  [4;35;1mSQL (0.000806)[0m   [0mselect sqlite_version(*)[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSQLite3::SQLException: table schema_info already exists: CREATE TABLE schema_info (version integer)[0m
+  [4;35;1mSQL (0.003579)[0m   [0mUPDATE schema_info SET version = 0[0m
+  [4;35;1mSQL (0.001075)[0m   [0mselect sqlite_version(*)[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSQLite3::SQLException: table schema_info already exists: CREATE TABLE schema_info (version integer)[0m
+  [4;35;1mSQL (0.003518)[0m   [0mUPDATE schema_info SET version = 0[0m
+  [4;35;1mSQL (0.000764)[0m   [0mselect sqlite_version(*)[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSQLite3::SQLException: table schema_info already exists: CREATE TABLE schema_info (version integer)[0m
+  [4;35;1mSQL (0.003449)[0m   [0mUPDATE schema_info SET version = 0[0m
+  [4;35;1mSQL (0.000623)[0m   [0mselect sqlite_version(*)[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSQLite3::SQLException: table schema_info already exists: CREATE TABLE schema_info (version integer)[0m
+  [4;35;1mSQL (0.026704)[0m   [0mUPDATE schema_info SET version = 0[0m
+  [4;36;1mSQL (0.000657)[0m   [0;1mselect sqlite_version(*)[0m
+  [4;35;1mSQL (0.000000)[0m   [0mSQLite3::SQLException: table schema_info already exists: CREATE TABLE schema_info (version integer)[0m
+  [4;36;1mSQL (0.003509)[0m   [0;1mUPDATE schema_info SET version = 0[0m
+  [4;35;1mSQL (0.000669)[0m   [0mselect sqlite_version(*)[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSQLite3::SQLException: table schema_info already exists: CREATE TABLE schema_info (version integer)[0m
+  [4;35;1mSQL (0.003516)[0m   [0mUPDATE schema_info SET version = 0[0m
+  [4;35;1mSQL (0.000652)[0m   [0mselect sqlite_version(*)[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSQLite3::SQLException: table schema_info already exists: CREATE TABLE schema_info (version integer)[0m
+  [4;35;1mSQL (0.003434)[0m   [0mUPDATE schema_info SET version = 0[0m
+  [4;35;1mSQL (0.000654)[0m   [0mselect sqlite_version(*)[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSQLite3::SQLException: table schema_info already exists: CREATE TABLE schema_info (version integer)[0m
+  [4;35;1mSQL (0.003491)[0m   [0mUPDATE schema_info SET version = 0[0m
+  [4;35;1mSQL (0.000650)[0m   [0mselect sqlite_version(*)[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSQLite3::SQLException: table schema_info already exists: CREATE TABLE schema_info (version integer)[0m
+  [4;35;1mSQL (0.003512)[0m   [0mUPDATE schema_info SET version = 0[0m
+  [4;35;1mSQL (0.000635)[0m   [0mselect sqlite_version(*)[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSQLite3::SQLException: table schema_info already exists: CREATE TABLE schema_info (version integer)[0m
+  [4;35;1mSQL (0.003699)[0m   [0mUPDATE schema_info SET version = 0[0m
+  [4;35;1mSQL (0.000654)[0m   [0mselect sqlite_version(*)[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSQLite3::SQLException: table schema_info already exists: CREATE TABLE schema_info (version integer)[0m
+  [4;35;1mSQL (0.003736)[0m   [0mUPDATE schema_info SET version = 0[0m
+  [4;35;1mSQL (0.000638)[0m   [0mselect sqlite_version(*)[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSQLite3::SQLException: table schema_info already exists: CREATE TABLE schema_info (version integer)[0m
+  [4;35;1mSQL (0.004158)[0m   [0mUPDATE schema_info SET version = 0[0m
+  [4;35;1mSQL (0.000680)[0m   [0mselect sqlite_version(*)[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSQLite3::SQLException: table schema_info already exists: CREATE TABLE schema_info (version integer)[0m
+  [4;35;1mSQL (0.003450)[0m   [0mUPDATE schema_info SET version = 0[0m
+  [4;35;1mSQL (0.000631)[0m   [0mselect sqlite_version(*)[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSQLite3::SQLException: table schema_info already exists: CREATE TABLE schema_info (version integer)[0m
+  [4;35;1mSQL (0.003971)[0m   [0mUPDATE schema_info SET version = 0[0m
+  [4;35;1mSQL (0.000667)[0m   [0mselect sqlite_version(*)[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSQLite3::SQLException: table schema_info already exists: CREATE TABLE schema_info (version integer)[0m
+  [4;35;1mSQL (0.003559)[0m   [0mUPDATE schema_info SET version = 0[0m
+  [4;35;1mSQL (0.000648)[0m   [0mselect sqlite_version(*)[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSQLite3::SQLException: table schema_info already exists: CREATE TABLE schema_info (version integer)[0m
+  [4;35;1mSQL (0.003859)[0m   [0mUPDATE schema_info SET version = 0[0m
+  [4;35;1mSQL (0.000671)[0m   [0mselect sqlite_version(*)[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSQLite3::SQLException: table schema_info already exists: CREATE TABLE schema_info (version integer)[0m
+  [4;35;1mSQL (0.006044)[0m   [0mUPDATE schema_info SET version = 0[0m
+  [4;35;1mSQL (0.000608)[0m   [0mselect sqlite_version(*)[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSQLite3::SQLException: table schema_info already exists: CREATE TABLE schema_info (version integer)[0m
+  [4;35;1mSQL (0.004351)[0m   [0mUPDATE schema_info SET version = 0[0m
+  [4;35;1mSQL (0.001356)[0m   [0mselect sqlite_version(*)[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSQLite3::SQLException: table schema_info already exists: CREATE TABLE schema_info (version integer)[0m
+  [4;35;1mSQL (0.003486)[0m   [0mUPDATE schema_info SET version = 0[0m
+  [4;35;1mSQL (0.000698)[0m   [0mselect sqlite_version(*)[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSQLite3::SQLException: table schema_info already exists: CREATE TABLE schema_info (version integer)[0m
+  [4;35;1mSQL (0.004100)[0m   [0mUPDATE schema_info SET version = 0[0m
+  [4;35;1mSQL (0.000685)[0m   [0mselect sqlite_version(*)[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSQLite3::SQLException: table schema_info already exists: CREATE TABLE schema_info (version integer)[0m
+  [4;35;1mSQL (0.003453)[0m   [0mUPDATE schema_info SET version = 0[0m
+  [4;35;1mSQL (0.001018)[0m   [0mselect sqlite_version(*)[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSQLite3::SQLException: table schema_info already exists: CREATE TABLE schema_info (version integer)[0m
+  [4;35;1mSQL (0.016463)[0m   [0mUPDATE schema_info SET version = 0[0m
+  [4;35;1mSQL (0.000647)[0m   [0mselect sqlite_version(*)[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSQLite3::SQLException: table schema_info already exists: CREATE TABLE schema_info (version integer)[0m
+  [4;35;1mSQL (0.003474)[0m   [0mUPDATE schema_info SET version = 0[0m
+  [4;35;1mSQL (0.000993)[0m   [0mselect sqlite_version(*)[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSQLite3::SQLException: table schema_info already exists: CREATE TABLE schema_info (version integer)[0m
+  [4;35;1mSQL (0.003569)[0m   [0mUPDATE schema_info SET version = 0[0m
+  [4;35;1mSQL (0.000641)[0m   [0mselect sqlite_version(*)[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSQLite3::SQLException: table schema_info already exists: CREATE TABLE schema_info (version integer)[0m
+  [4;35;1mSQL (0.004159)[0m   [0mUPDATE schema_info SET version = 0[0m
+  [4;35;1mSQL (0.000645)[0m   [0mselect sqlite_version(*)[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSQLite3::SQLException: table schema_info already exists: CREATE TABLE schema_info (version integer)[0m
+  [4;35;1mSQL (0.003455)[0m   [0mUPDATE schema_info SET version = 0[0m
+  [4;35;1mSQL (0.000609)[0m   [0mselect sqlite_version(*)[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSQLite3::SQLException: table schema_info already exists: CREATE TABLE schema_info (version integer)[0m
+  [4;35;1mSQL (0.003496)[0m   [0mUPDATE schema_info SET version = 0[0m
+  [4;35;1mSQL (0.000668)[0m   [0mselect sqlite_version(*)[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSQLite3::SQLException: table schema_info already exists: CREATE TABLE schema_info (version integer)[0m
+  [4;35;1mSQL (0.003434)[0m   [0mUPDATE schema_info SET version = 0[0m
+  [4;35;1mSQL (0.001067)[0m   [0mselect sqlite_version(*)[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSQLite3::SQLException: table schema_info already exists: CREATE TABLE schema_info (version integer)[0m
+  [4;35;1mSQL (0.003538)[0m   [0mUPDATE schema_info SET version = 0[0m
+  [4;35;1mSQL (0.000621)[0m   [0mselect sqlite_version(*)[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSQLite3::SQLException: table schema_info already exists: CREATE TABLE schema_info (version integer)[0m
+  [4;35;1mSQL (0.003443)[0m   [0mUPDATE schema_info SET version = 0[0m
+  [4;35;1mSQL (0.000656)[0m   [0mselect sqlite_version(*)[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSQLite3::SQLException: table schema_info already exists: CREATE TABLE schema_info (version integer)[0m
+  [4;35;1mSQL (0.003424)[0m   [0mUPDATE schema_info SET version = 0[0m
+  [4;35;1mSQL (0.000622)[0m   [0mselect sqlite_version(*)[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSQLite3::SQLException: table schema_info already exists: CREATE TABLE schema_info (version integer)[0m
+  [4;35;1mSQL (0.003883)[0m   [0mUPDATE schema_info SET version = 0[0m
+  [4;36;1mSQL (0.000651)[0m   [0;1mselect sqlite_version(*)[0m
+  [4;35;1mSQL (0.000000)[0m   [0mSQLite3::SQLException: table schema_info already exists: CREATE TABLE schema_info (version integer)[0m
+  [4;36;1mSQL (0.003559)[0m   [0;1mUPDATE schema_info SET version = 0[0m
+  [4;36;1mSQL (0.000625)[0m   [0;1mselect sqlite_version(*)[0m
+  [4;35;1mSQL (0.000000)[0m   [0mSQLite3::SQLException: table schema_info already exists: CREATE TABLE schema_info (version integer)[0m
+  [4;36;1mSQL (0.003148)[0m   [0;1mUPDATE schema_info SET version = 0[0m
+  [4;36;1mSQL (0.000636)[0m   [0;1mselect sqlite_version(*)[0m
+  [4;35;1mSQL (0.000000)[0m   [0mSQLite3::SQLException: table schema_info already exists: CREATE TABLE schema_info (version integer)[0m
+  [4;36;1mSQL (0.003451)[0m   [0;1mUPDATE schema_info SET version = 0[0m
+  [4;36;1mSQL (0.000645)[0m   [0;1mselect sqlite_version(*)[0m
+  [4;35;1mSQL (0.000000)[0m   [0mSQLite3::SQLException: table schema_info already exists: CREATE TABLE schema_info (version integer)[0m
+  [4;36;1mSQL (0.003398)[0m   [0;1mUPDATE schema_info SET version = 0[0m
+  [4;36;1mSQL (0.000632)[0m   [0;1mselect sqlite_version(*)[0m
+  [4;35;1mSQL (0.000000)[0m   [0mSQLite3::SQLException: table schema_info already exists: CREATE TABLE schema_info (version integer)[0m
+  [4;36;1mSQL (0.003365)[0m   [0;1mUPDATE schema_info SET version = 0[0m
+  [4;36;1mSQL (0.000934)[0m   [0;1mselect sqlite_version(*)[0m
+  [4;35;1mSQL (0.000000)[0m   [0mSQLite3::SQLException: table schema_info already exists: CREATE TABLE schema_info (version integer)[0m
+  [4;36;1mSQL (0.003629)[0m   [0;1mUPDATE schema_info SET version = 0[0m
+  [4;36;1mSQL (0.000637)[0m   [0;1mselect sqlite_version(*)[0m
+  [4;35;1mSQL (0.000000)[0m   [0mSQLite3::SQLException: table schema_info already exists: CREATE TABLE schema_info (version integer)[0m
+  [4;36;1mSQL (0.003593)[0m   [0;1mUPDATE schema_info SET version = 0[0m
+  [4;36;1mSQL (0.000719)[0m   [0;1mselect sqlite_version(*)[0m
+  [4;35;1mSQL (0.000000)[0m   [0mSQLite3::SQLException: table schema_info already exists: CREATE TABLE schema_info (version integer)[0m
+  [4;36;1mSQL (0.003682)[0m   [0;1mUPDATE schema_info SET version = 0[0m
+  [4;36;1mSQL (0.000645)[0m   [0;1mselect sqlite_version(*)[0m
+  [4;35;1mSQL (0.000000)[0m   [0mSQLite3::SQLException: table schema_info already exists: CREATE TABLE schema_info (version integer)[0m
+  [4;36;1mSQL (0.003564)[0m   [0;1mUPDATE schema_info SET version = 0[0m
+  [4;35;1mUser Create (0.000000)[0m   [0mSQLite3::SQLException: no such table: users: INSERT INTO users ("last_login_at", "messages_outbox_count", "name", "rating", "salt", "blogs_count", "descr", "favour_blogs_count", "points_count", "updated_at", "default_album_id", "favour_albums_count", "suffrages_count", "dream", "messages_inbox_count", "send_points_ch", "token", "votes_count", "token_expires_at", "check_wifi_status", "communities_count", "district_id", "favour_points_count", "temper", "complaints_count", "sex", "birthday", "homepage", "messages_new_count", "posts_count", "send_friends_posts", "wifi_img_alt", "citate", "comments_count", "default_blog_id", "send_fav_comments", "wifi_img_src", "address", "albums_count", "favour_communities_count", "favour_photos_count", "login", "marital", "created_at", "email", "favour_posts_count", "photos_count", "send_freq_added_to_fav", "votings_count") VALUES(NULL, 0, '', 0, NULL, 0, NULL, 0, 0, '2008-07-11 17:05:40', 0, 0, 0, NULL, 0, 1, '', 0, NULL, 'f', 0, NULL, 0, NULL, 0, 0, NULL, NULL, 0, 0, 1, NULL, NULL, 0, 0, 1, NULL, NULL, 0, 0, 0, '', 0, '2008-07-11 17:05:40', '', 0, 0, 1, 0)[0m
+  [4;36;1mSQL (0.000689)[0m   [0;1mselect sqlite_version(*)[0m
+  [4;35;1mSQL (0.000000)[0m   [0mSQLite3::SQLException: table schema_info already exists: CREATE TABLE schema_info (version integer)[0m
+  [4;36;1mSQL (0.003331)[0m   [0;1mUPDATE schema_info SET version = 0[0m
+  [4;36;1mSQL (0.000642)[0m   [0;1mselect sqlite_version(*)[0m
+  [4;35;1mSQL (0.000000)[0m   [0mSQLite3::SQLException: table schema_info already exists: CREATE TABLE schema_info (version integer)[0m
+  [4;36;1mSQL (0.003237)[0m   [0;1mUPDATE schema_info SET version = 0[0m
+  [4;35;1mSQL (0.001370)[0m   [0mselect sqlite_version(*)[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSQLite3::SQLException: table schema_info already exists: CREATE TABLE schema_info (version integer)[0m
+  [4;35;1mSQL (0.003357)[0m   [0mUPDATE schema_info SET version = 0[0m
+  [4;36;1mSQL (0.000625)[0m   [0;1mselect sqlite_version(*)[0m
+  [4;35;1mSQL (0.000000)[0m   [0mSQLite3::SQLException: table schema_info already exists: CREATE TABLE schema_info (version integer)[0m
+  [4;36;1mSQL (0.003564)[0m   [0;1mUPDATE schema_info SET version = 0[0m
+  [4;36;1mSQL (0.001289)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.000580)[0m   [0mselect sqlite_version(*)[0m
+  [4;36;1mSQL (0.003930)[0m   [0;1mCREATE TABLE "schema_migrations" ("version" varchar(255) NOT NULL) [0m
+  [4;35;1mSQL (0.003638)[0m   [0mCREATE UNIQUE INDEX "unique_schema_migrations" ON "schema_migrations" ("version")[0m
+  [4;36;1mSQL (0.001045)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.000776)[0m   [0mSELECT version FROM "schema_info"[0m
+  [4;36;1mSQL (0.000441)[0m   [0;1mSELECT version FROM "schema_migrations"[0m
+  [4;35;1mSQL (0.002438)[0m   [0mINSERT INTO "schema_migrations" (version) VALUES ('0')[0m
+  [4;36;1mSQL (0.002538)[0m   [0;1mDROP TABLE "schema_info"[0m
+  [4;35;1mSQL (0.000716)[0m   [0mSELECT version FROM "schema_migrations"[0m
+  [4;36;1mSQL (0.013339)[0m   [0;1mselect sqlite_version(*)[0m
+  [4;35;1mSQL (0.007534)[0m   [0mCREATE TABLE schema_info (version integer)[0m
+  [4;36;1mSQL (0.018961)[0m   [0;1mINSERT INTO schema_info (version) VALUES(0)[0m
+  [4;35;1mSQL (0.002793)[0m   [0mUPDATE schema_info SET version = 0[0m
+  [4;36;1mSQL (0.001339)[0m   [0;1mselect sqlite_version(*)[0m
+  [4;35;1mSQL (0.000000)[0m   [0mSQLite3::SQLException: table schema_info already exists: CREATE TABLE schema_info (version integer)[0m
+  [4;36;1mSQL (0.003523)[0m   [0;1mUPDATE schema_info SET version = 0[0m
+  [4;35;1mSQL (0.001685)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.000805)[0m   [0;1mSELECT version FROM "schema_migrations"[0m
+  [4;35;1mSQL (0.001659)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.000790)[0m   [0;1mSELECT version FROM "schema_migrations"[0m
+  [4;35;1mSQL (0.001627)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.000774)[0m   [0;1mSELECT version FROM "schema_migrations"[0m
+  [4;35;1mSQL (0.001676)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.001054)[0m   [0;1mSELECT version FROM "schema_migrations"[0m
+  [4;35;1mSQL (0.000458)[0m   [0mPRAGMA table_info('authorables')[0m
+  [4;35;1mSQL (0.001918)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.000766)[0m   [0;1mSELECT version FROM "schema_migrations"[0m
+  [4;35;1mSQL (0.000000)[0m   [0mSQLite3::SQLException: no such table: test_users: select count(*) from test_users[0m
+  [4;35;1mSQL (0.001703)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.000800)[0m   [0;1mSELECT version FROM "schema_migrations"[0m
+  [4;35;1mSQL (0.000000)[0m   [0mSQLite3::SQLException: no such table: main.test_users: select count(*) from main.test_users[0m
+  [4;35;1mSQL (0.001590)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.000766)[0m   [0;1mSELECT version FROM "schema_migrations"[0m
+  [4;35;1mSQL (0.001652)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.000790)[0m   [0;1mSELECT version FROM "schema_migrations"[0m
+  [4;35;1mSQL (0.000960)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.001752)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.000781)[0m   [0;1mSELECT version FROM "schema_migrations"[0m
+  [4;35;1mSQL (0.001067)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.000561)[0m   [0;1mselect sqlite_version(*)[0m
+  [4;35;1mSQL (0.000000)[0m   [0mSQLite3::SQLException: table schema_info already exists: CREATE TABLE schema_info (version integer)[0m
+  [4;36;1mSQL (0.003534)[0m   [0;1mUPDATE schema_info SET version = 0[0m
+  [4;35;1mSQL (0.000564)[0m   [0mselect sqlite_version(*)[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSQLite3::SQLException: table schema_info already exists: CREATE TABLE schema_info (version integer)[0m
+  [4;35;1mSQL (0.003193)[0m   [0mUPDATE schema_info SET version = 0[0m
+  [4;35;1mSQL (0.000540)[0m   [0mselect sqlite_version(*)[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSQLite3::SQLException: table schema_info already exists: CREATE TABLE schema_info (version integer)[0m
+  [4;35;1mSQL (0.003274)[0m   [0mUPDATE schema_info SET version = 0[0m
+  [4;35;1mSQL (0.003081)[0m   [0mselect sqlite_version(*)[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSQLite3::SQLException: table schema_info already exists: CREATE TABLE schema_info (version integer)[0m
+  [4;35;1mSQL (0.022208)[0m   [0mUPDATE schema_info SET version = 0[0m
+  [4;35;1mSQL (0.002970)[0m   [0mselect sqlite_version(*)[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSQLite3::SQLException: no such table: test_model: DROP TABLE test_model[0m
+  [4;35;1mSQL (0.029981)[0m   [0mCREATE TABLE test_model ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL) [0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSQLite3::SQLException: table schema_info already exists: CREATE TABLE schema_info (version integer)[0m
+  [4;35;1mSQL (0.002622)[0m   [0mUPDATE schema_info SET version = 0[0m
+  [4;35;1mSQL (0.003252)[0m   [0mselect sqlite_version(*)[0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSQLite3::SQLException: no such table: test_models: DROP TABLE test_models[0m
+  [4;35;1mSQL (0.015124)[0m   [0mCREATE TABLE test_models ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL) [0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSQLite3::SQLException: table schema_info already exists: CREATE TABLE schema_info (version integer)[0m
+  [4;35;1mSQL (0.003413)[0m   [0mUPDATE schema_info SET version = 0[0m
+WARNING: Can't mass-assign these protected attributes: id
+  [4;36;1mTestModel Create (0.000799)[0m   [0;1mINSERT INTO test_models VALUES(NULL)[0m
+  [4;35;1mSQL (0.003009)[0m   [0mselect sqlite_version(*)[0m
+  [4;36;1mSQL (0.018045)[0m   [0;1mDROP TABLE test_models[0m
+  [4;35;1mSQL (0.003005)[0m   [0mCREATE TABLE test_models ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL) [0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSQLite3::SQLException: table schema_info already exists: CREATE TABLE schema_info (version integer)[0m
+  [4;35;1mSQL (0.002429)[0m   [0mUPDATE schema_info SET version = 0[0m
+WARNING: Can't mass-assign these protected attributes: id
+  [4;36;1mTestModel Create (0.000761)[0m   [0;1mINSERT INTO test_models VALUES(NULL)[0m
+  [4;35;1mSQL (0.003076)[0m   [0mselect sqlite_version(*)[0m
+  [4;36;1mSQL (0.013377)[0m   [0;1mDROP TABLE test_models[0m
+  [4;35;1mSQL (0.003113)[0m   [0mCREATE TABLE test_models ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL) [0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSQLite3::SQLException: table schema_info already exists: CREATE TABLE schema_info (version integer)[0m
+  [4;35;1mSQL (0.002517)[0m   [0mUPDATE schema_info SET version = 0[0m
+WARNING: Can't mass-assign these protected attributes: id
+  [4;36;1mTestModel Create (0.000724)[0m   [0;1mINSERT INTO test_models VALUES(NULL)[0m
+WARNING: Can't mass-assign these protected attributes: id
+  [4;35;1mTestModel Create (0.000547)[0m   [0mINSERT INTO test_models VALUES(NULL)[0m
+  [4;35;1mSQL (0.003758)[0m   [0mselect sqlite_version(*)[0m
+  [4;36;1mSQL (0.024375)[0m   [0;1mDROP TABLE test_models[0m
+  [4;35;1mSQL (0.004380)[0m   [0mCREATE TABLE test_models ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL) [0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSQLite3::SQLException: table schema_info already exists: CREATE TABLE schema_info (version integer)[0m
+  [4;35;1mSQL (0.002473)[0m   [0mUPDATE schema_info SET version = 0[0m
+  [4;35;1mSQL (0.004556)[0m   [0mselect sqlite_version(*)[0m
+  [4;36;1mSQL (0.019970)[0m   [0;1mDROP TABLE test_models[0m
+  [4;35;1mSQL (0.003703)[0m   [0mCREATE TABLE test_models ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL) [0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSQLite3::SQLException: table schema_info already exists: CREATE TABLE schema_info (version integer)[0m
+  [4;35;1mSQL (0.002482)[0m   [0mUPDATE schema_info SET version = 0[0m
+  [4;35;1mSQL (0.002968)[0m   [0mselect sqlite_version(*)[0m
+  [4;36;1mSQL (0.018898)[0m   [0;1mDROP TABLE test_models[0m
+  [4;35;1mSQL (0.002961)[0m   [0mCREATE TABLE test_models ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL) [0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSQLite3::SQLException: table schema_info already exists: CREATE TABLE schema_info (version integer)[0m
+  [4;35;1mSQL (0.002360)[0m   [0mUPDATE schema_info SET version = 0[0m
+  [4;35;1mSQL (0.002944)[0m   [0mselect sqlite_version(*)[0m
+  [4;36;1mSQL (0.012679)[0m   [0;1mDROP TABLE test_models[0m
+  [4;35;1mSQL (0.002896)[0m   [0mCREATE TABLE test_models ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL) [0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSQLite3::SQLException: table schema_info already exists: CREATE TABLE schema_info (version integer)[0m
+  [4;35;1mSQL (0.002305)[0m   [0mUPDATE schema_info SET version = 0[0m
+WARNING: Can't mass-assign these protected attributes: id
+  [4;36;1mTestModel Create (0.000726)[0m   [0;1mINSERT INTO test_models VALUES(NULL)[0m
+WARNING: Can't mass-assign these protected attributes: id
+  [4;35;1mTestModel Create (0.000543)[0m   [0mINSERT INTO test_models VALUES(NULL)[0m
+WARNING: Can't mass-assign these protected attributes: id
+  [4;36;1mTestModel Create (0.000562)[0m   [0;1mINSERT INTO test_models VALUES(NULL)[0m
+WARNING: Can't mass-assign these protected attributes: id
+  [4;35;1mTestModel Create (0.000566)[0m   [0mINSERT INTO test_models VALUES(NULL)[0m
+WARNING: Can't mass-assign these protected attributes: id
+  [4;36;1mTestModel Create (0.000578)[0m   [0;1mINSERT INTO test_models VALUES(NULL)[0m
+  [4;35;1mSQL (0.003074)[0m   [0mselect sqlite_version(*)[0m
+  [4;36;1mSQL (0.013004)[0m   [0;1mDROP TABLE test_models[0m
+  [4;35;1mSQL (0.003099)[0m   [0mCREATE TABLE test_models ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL) [0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSQLite3::SQLException: table schema_info already exists: CREATE TABLE schema_info (version integer)[0m
+  [4;35;1mSQL (0.002524)[0m   [0mUPDATE schema_info SET version = 0[0m
+WARNING: Can't mass-assign these protected attributes: id
+  [4;36;1mTestModel Create (0.000737)[0m   [0;1mINSERT INTO test_models VALUES(NULL)[0m
+WARNING: Can't mass-assign these protected attributes: id
+  [4;35;1mTestModel Create (0.000576)[0m   [0mINSERT INTO test_models VALUES(NULL)[0m
+WARNING: Can't mass-assign these protected attributes: id
+  [4;36;1mTestModel Create (0.000585)[0m   [0;1mINSERT INTO test_models VALUES(NULL)[0m
+WARNING: Can't mass-assign these protected attributes: id
+  [4;35;1mTestModel Create (0.000575)[0m   [0mINSERT INTO test_models VALUES(NULL)[0m
+WARNING: Can't mass-assign these protected attributes: id
+  [4;36;1mTestModel Create (0.000580)[0m   [0;1mINSERT INTO test_models VALUES(NULL)[0m
+  [4;35;1mSQL (0.003472)[0m   [0mselect sqlite_version(*)[0m
+  [4;36;1mSQL (0.015890)[0m   [0;1mDROP TABLE test_models[0m
+  [4;35;1mSQL (0.003109)[0m   [0mCREATE TABLE test_models ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL) [0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSQLite3::SQLException: table schema_info already exists: CREATE TABLE schema_info (version integer)[0m
+  [4;35;1mSQL (0.002608)[0m   [0mUPDATE schema_info SET version = 0[0m
+WARNING: Can't mass-assign these protected attributes: id
+  [4;36;1mTestModel Create (0.000742)[0m   [0;1mINSERT INTO test_models VALUES(NULL)[0m
+WARNING: Can't mass-assign these protected attributes: id
+  [4;35;1mTestModel Create (0.000600)[0m   [0mINSERT INTO test_models VALUES(NULL)[0m
+WARNING: Can't mass-assign these protected attributes: id
+  [4;36;1mTestModel Create (0.000597)[0m   [0;1mINSERT INTO test_models VALUES(NULL)[0m
+WARNING: Can't mass-assign these protected attributes: id
+  [4;35;1mTestModel Create (0.000583)[0m   [0mINSERT INTO test_models VALUES(NULL)[0m
+WARNING: Can't mass-assign these protected attributes: id
+  [4;36;1mTestModel Create (0.000571)[0m   [0;1mINSERT INTO test_models VALUES(NULL)[0m
+  [4;35;1mSQL (0.006078)[0m   [0mselect sqlite_version(*)[0m
+  [4;36;1mSQL (0.024358)[0m   [0;1mDROP TABLE test_models[0m
+  [4;35;1mSQL (0.005338)[0m   [0mCREATE TABLE test_models ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL) [0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSQLite3::SQLException: table schema_info already exists: CREATE TABLE schema_info (version integer)[0m
+  [4;35;1mSQL (0.002853)[0m   [0mUPDATE schema_info SET version = 0[0m
+WARNING: Can't mass-assign these protected attributes: id
+  [4;36;1mTestModel Create (0.000749)[0m   [0;1mINSERT INTO test_models VALUES(NULL)[0m
+WARNING: Can't mass-assign these protected attributes: id
+  [4;35;1mTestModel Create (0.000561)[0m   [0mINSERT INTO test_models VALUES(NULL)[0m
+WARNING: Can't mass-assign these protected attributes: id
+  [4;36;1mTestModel Create (0.000922)[0m   [0;1mINSERT INTO test_models VALUES(NULL)[0m
+WARNING: Can't mass-assign these protected attributes: id
+  [4;35;1mTestModel Create (0.000573)[0m   [0mINSERT INTO test_models VALUES(NULL)[0m
+WARNING: Can't mass-assign these protected attributes: id
+  [4;36;1mTestModel Create (0.000907)[0m   [0;1mINSERT INTO test_models VALUES(NULL)[0m
+  [4;35;1mSQL (0.005433)[0m   [0mselect sqlite_version(*)[0m
+  [4;36;1mSQL (0.020972)[0m   [0;1mDROP TABLE test_models[0m
+  [4;35;1mSQL (0.004306)[0m   [0mCREATE TABLE test_models ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL) [0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSQLite3::SQLException: table schema_info already exists: CREATE TABLE schema_info (version integer)[0m
+  [4;35;1mSQL (0.002395)[0m   [0mUPDATE schema_info SET version = 0[0m
+WARNING: Can't mass-assign these protected attributes: id
+  [4;36;1mTestModel Create (0.001352)[0m   [0;1mINSERT INTO test_models VALUES(NULL)[0m
+WARNING: Can't mass-assign these protected attributes: id
+  [4;35;1mTestModel Create (0.001218)[0m   [0mINSERT INTO test_models VALUES(NULL)[0m
+WARNING: Can't mass-assign these protected attributes: id
+  [4;36;1mTestModel Create (0.000883)[0m   [0;1mINSERT INTO test_models VALUES(NULL)[0m
+WARNING: Can't mass-assign these protected attributes: id
+  [4;35;1mTestModel Create (0.001185)[0m   [0mINSERT INTO test_models VALUES(NULL)[0m
+WARNING: Can't mass-assign these protected attributes: id
+  [4;36;1mTestModel Create (0.000921)[0m   [0;1mINSERT INTO test_models VALUES(NULL)[0m
+  [4;36;1mSQL (0.000537)[0m   [0;1mselect sqlite_version(*)[0m
+  [4;35;1mSQL (0.004265)[0m   [0mDROP TABLE test_models[0m
+  [4;36;1mSQL (0.002613)[0m   [0;1mCREATE TABLE test_models ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL) [0m
+  [4;35;1mSQL (0.000000)[0m   [0mSQLite3::SQLException: table schema_info already exists: CREATE TABLE schema_info (version integer)[0m
+  [4;36;1mSQL (0.002307)[0m   [0;1mUPDATE schema_info SET version = 0[0m
+  [4;35;1mSQL (0.019910)[0m   [0mselect sqlite_version(*)[0m
+  [4;36;1mSQL (0.067727)[0m   [0;1mDROP TABLE test_models[0m
+  [4;35;1mSQL (0.009257)[0m   [0mCREATE TABLE test_models ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL) [0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSQLite3::SQLException: table schema_info already exists: CREATE TABLE schema_info (version integer)[0m
+  [4;35;1mSQL (0.033841)[0m   [0mUPDATE schema_info SET version = 0[0m
+WARNING: Can't mass-assign these protected attributes: id
+  [4;36;1mTestModel Create (0.000824)[0m   [0;1mINSERT INTO test_models VALUES(NULL)[0m
+WARNING: Can't mass-assign these protected attributes: id
+  [4;35;1mTestModel Create (0.000635)[0m   [0mINSERT INTO test_models VALUES(NULL)[0m
+WARNING: Can't mass-assign these protected attributes: id
+  [4;36;1mTestModel Create (0.001959)[0m   [0;1mINSERT INTO test_models VALUES(NULL)[0m
+WARNING: Can't mass-assign these protected attributes: id
+  [4;35;1mTestModel Create (0.000599)[0m   [0mINSERT INTO test_models VALUES(NULL)[0m
+WARNING: Can't mass-assign these protected attributes: id
+  [4;36;1mTestModel Create (0.000606)[0m   [0;1mINSERT INTO test_models VALUES(NULL)[0m
+WARNING: Can't mass-assign these protected attributes: id
+  [4;35;1mTestModel Create (0.000604)[0m   [0mINSERT INTO test_models VALUES(NULL)[0m
+WARNING: Can't mass-assign these protected attributes: id
+  [4;36;1mTestModel Create (0.000612)[0m   [0;1mINSERT INTO test_models VALUES(NULL)[0m
+WARNING: Can't mass-assign these protected attributes: id
+  [4;35;1mTestModel Create (0.000609)[0m   [0mINSERT INTO test_models VALUES(NULL)[0m
+  [4;35;1mSQL (0.004123)[0m   [0mselect sqlite_version(*)[0m
+  [4;36;1mSQL (0.021952)[0m   [0;1mDROP TABLE test_models[0m
+  [4;35;1mSQL (0.003981)[0m   [0mCREATE TABLE test_models ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL) [0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSQLite3::SQLException: table schema_info already exists: CREATE TABLE schema_info (version integer)[0m
+  [4;35;1mSQL (0.003385)[0m   [0mUPDATE schema_info SET version = 0[0m
+WARNING: Can't mass-assign these protected attributes: id
+  [4;36;1mTestModel Create (0.001167)[0m   [0;1mINSERT INTO test_models VALUES(NULL)[0m
+WARNING: Can't mass-assign these protected attributes: id
+  [4;35;1mTestModel Create (0.001203)[0m   [0mINSERT INTO test_models VALUES(NULL)[0m
+WARNING: Can't mass-assign these protected attributes: id
+  [4;36;1mTestModel Create (0.000601)[0m   [0;1mINSERT INTO test_models VALUES(NULL)[0m
+WARNING: Can't mass-assign these protected attributes: id
+  [4;35;1mTestModel Create (0.000592)[0m   [0mINSERT INTO test_models VALUES(NULL)[0m
+WARNING: Can't mass-assign these protected attributes: id
+  [4;36;1mTestModel Create (0.000604)[0m   [0;1mINSERT INTO test_models VALUES(NULL)[0m
+WARNING: Can't mass-assign these protected attributes: id
+  [4;35;1mTestModel Create (0.000589)[0m   [0mINSERT INTO test_models VALUES(NULL)[0m
+WARNING: Can't mass-assign these protected attributes: id
+  [4;36;1mTestModel Create (0.000588)[0m   [0;1mINSERT INTO test_models VALUES(NULL)[0m
+WARNING: Can't mass-assign these protected attributes: id
+  [4;35;1mTestModel Create (0.000596)[0m   [0mINSERT INTO test_models VALUES(NULL)[0m
+  [4;35;1mSQL (0.006154)[0m   [0mselect sqlite_version(*)[0m
+  [4;36;1mSQL (0.021706)[0m   [0;1mDROP TABLE test_models[0m
+  [4;35;1mSQL (0.004494)[0m   [0mCREATE TABLE test_models ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL) [0m
+  [4;36;1mSQL (0.000000)[0m   [0;1mSQLite3::SQLException: table schema_info already exists: CREATE TABLE schema_info (version integer)[0m
+  [4;35;1mSQL (0.002486)[0m   [0mUPDATE schema_info SET version = 0[0m
+WARNING: Can't mass-assign these protected attributes: id
+  [4;36;1mTestModel Create (0.000821)[0m   [0;1mINSERT INTO test_models VALUES(NULL)[0m
+WARNING: Can't mass-assign these protected attributes: id
+  [4;35;1mTestModel Create (0.000990)[0m   [0mINSERT INTO test_models VALUES(NULL)[0m
+WARNING: Can't mass-assign these protected attributes: id
+  [4;36;1mTestModel Create (0.000598)[0m   [0;1mINSERT INTO test_models VALUES(NULL)[0m
+WARNING: Can't mass-assign these protected attributes: id
+  [4;35;1mTestModel Create (0.000569)[0m   [0mINSERT INTO test_models VALUES(NULL)[0m
+WARNING: Can't mass-assign these protected attributes: id
+  [4;36;1mTestModel Create (0.000602)[0m   [0;1mINSERT INTO test_models VALUES(NULL)[0m
+WARNING: Can't mass-assign these protected attributes: id
+  [4;35;1mTestModel Create (0.000595)[0m   [0mINSERT INTO test_models VALUES(NULL)[0m
+WARNING: Can't mass-assign these protected attributes: id
+  [4;36;1mTestModel Create (0.001016)[0m   [0;1mINSERT INTO test_models VALUES(NULL)[0m
+WARNING: Can't mass-assign these protected attributes: id
+  [4;35;1mTestModel Create (0.000603)[0m   [0mINSERT INTO test_models VALUES(NULL)[0m
