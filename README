@@ -13,8 +13,8 @@ dom_id
 =======================
 @post = Post.find(1)
 @post.dom_id                    => post_1
-@post.dom_id(favorite)          => favorite_post_1
-@post.dom_id(favorite, deleted) => favorite_post_1_deleted
+@post.dom_id("favorite")          => favorite_post_1
+@post.dom_id("favorite", "deleted") => favorite_post_1_deleted
 
 dom_path
 =======================
@@ -23,9 +23,8 @@ dom_path
 dom_class
 =======================
 @post.dom_class            => post
-@post.dom_class(new)       => new_post
-@post.dom_class("", false) => posts
+@post.dom_class("new")       => new_post
+@post.dom_class("cool", false) => cool_posts
 
-
-
-
+=======================
+author Ivan Garmatenko <cheef.che@gmail.com>
