@@ -1,0 +1,31 @@
+dom_names
+======================
+This plugin added three ActiveRecord::Base instance methods to simplify work with ajax or css.
+
+USES:
+======================
+AR instance methods:
+- dom_id
+- dom_class
+- dom_path
+
+dom_id
+=======================
+@post = Post.find(1)
+@post.dom_id                    => post_1
+@post.dom_id(favorite)          => favorite_post_1
+@post.dom_id(favorite, deleted) => favorite_post_1_deleted
+
+dom_path
+=======================
+@post.dom_path  => posts
+
+dom_class
+=======================
+@post.dom_class            => post
+@post.dom_class(new)       => new_post
+@post.dom_class("", false) => posts
+
+
+
+
